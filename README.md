@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Online News Popularity Prediction
 
 > Binary classification pipeline that predicts whether a news article will go viral — built on the UCI Online News Popularity dataset with custom feature engineering, ensemble modeling, and threshold-optimized inference.
@@ -162,9 +161,9 @@ python src/features/build_features.py --input data/raw/ --output data/processed/
 ---
 
 ## Summary
-
 This project demonstrates an end-to-end production ML workflow: structured EDA, domain-informed feature engineering, systematic model comparison with proper validation, hyperparameter tuning, and threshold-optimized deployment artifacts. The final XGBoost model achieves 67.32% F1/accuracy on a well-studied benchmark dataset — matching or exceeding published results without data leakage.
-=======
+
+====
 # Predicting Online News Popularity 📈
 
 Machine learning project for predicting how many times an online article will be shared on social media using regression models and feature engineering.
